@@ -1000,19 +1000,19 @@ Text Label 7300 2900 2    50   ~ 0
 col3
 Text Label 7300 3000 2    50   ~ 0
 col4
-Text Label 8700 2800 0    50   ~ 0
+Text Label 8700 2700 0    50   ~ 0
 col5
-Text Label 8700 2900 0    50   ~ 0
+Text Label 8700 2800 0    50   ~ 0
 col6
-Text Label 8700 3000 0    50   ~ 0
+Text Label 8700 2900 0    50   ~ 0
 col7
-Text Label 8700 3100 0    50   ~ 0
+Text Label 8700 3000 0    50   ~ 0
 col8
-Text Label 8700 3200 0    50   ~ 0
+Text Label 8700 3100 0    50   ~ 0
 col9
 Text Label 8700 2600 0    50   ~ 0
 row0
-Text Label 8700 2700 0    50   ~ 0
+Text Label 8700 3200 0    50   ~ 0
 row1
 Text Label 7300 3100 2    50   ~ 0
 row2

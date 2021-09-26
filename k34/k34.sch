@@ -1018,4 +1018,17 @@ Text Label 7300 3100 2    50   ~ 0
 row2
 Text Label 7300 3200 2    50   ~ 0
 row3
+NoConn ~ 7300 2200
+NoConn ~ 7300 2300
+NoConn ~ 7300 2400
+NoConn ~ 7300 2500
+NoConn ~ 8700 2200
+NoConn ~ 8700 2500
+NoConn ~ 7300 3300
+NoConn ~ 8700 3300
+NoConn ~ 7700 3800
+NoConn ~ 7850 3800
+NoConn ~ 8000 3800
+NoConn ~ 8700 2300
+NoConn ~ 8700 2400
 $EndSCHEMATC
