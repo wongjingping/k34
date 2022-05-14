@@ -6,9 +6,13 @@ This project contains the pcb designs for the k34 keyboard. The k34 is a unibody
 
 `k34/plate and case reference` contains the exported svg's that I imported into fusion360 for modeling the case and plate files. 
 
-`case` contains the stl files I used for the plate and case. The case fits well but the plate is a little off and needs some rework.
+`case` contains the stl files I used for the plate and case. The case supports the sides/outline of the pcb and fits well but isn't secured (ie would be fine if you're not planning to transport/move it around a lot). Note that the plate is non-symmetric and is adapted directly from the pcb's edge cut layer. 
 
-firmware / zmk shield can be found in this repository: https://github.com/wongjingping/zmk-config/
+## Firmware
+
+- [zmk](https://github.com/wongjingping/zmk-config)
+
+- [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/k34)
 
 ![K34 keyboard](docs/k34.jpg?raw=true "K34 keyboard")
 
